@@ -50,7 +50,7 @@ h5 {
 }
 .hero {
   min-height: 30rem;
-  background-image: url("./assets/fotos/hero-banner-alt.jpg");
+  background-image: url("/assets/fotos/hero-banner-alt.jpg");
   background-size: cover;
   background-position: center;
 }
