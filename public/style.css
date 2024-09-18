@@ -90,25 +90,25 @@ h5 {
 /* -------PRODUCTS PAGE (ELECTRONICS, JEWELERY,MENS, WOMENS)------- */
 .hero_electronics {
   min-height: 25rem;
-  background-image: url("./assets/fotos/electronica_cateogrias.jpg");
+  background-image: url("./assets/fotos/electronics_hero.jpg");
   background-size: cover;
   background-position: center;
 }
 .hero_jewelery {
   min-height: 25rem;
-  background-image: url("./assets/fotos/joyas_categorias.jpg");
+  background-image: url("./assets/fotos/jewelery_hero.jfif");
   background-size: cover;
   background-position: center;
 }
 .hero_mens {
   min-height: 25rem;
-  background-image: url("./assets/fotos/hombres_categorias.jpg");
+  background-image: url("./assets/fotos/mens_hero.jpg");
   background-size: cover;
   background-position: center;
 }
 .hero_womens {
   min-height: 25rem;
-  background-image: url("./assets/fotos/mujeres_categorias.jpg");
+  background-image: url("./assets/fotos/womens_hero.jpg");
   background-size: cover;
   background-position: center;
 }
